@@ -1,0 +1,35 @@
+WP-Freelance widget
+
+Author: S.AKYUREK
+Author URL: http://www.seyhunakyurek.com
+Tags: about me, widget, biography, bio, author
+Tested up to: 2.8 
+Stable tag: 1
+
+-- Description --
+Widget that adds freelance status information box
+Add your currenly work information, add work finish date with YY/mm/dd format. (i.e 2010-01-01)
+Select your status (available for work, or busy) and set your contact page. 
+Widget fully customizable and themeable.
+
+-- Installation --
+
+To install and configure: 
+ 
+1. Download and extract WP-Freelance to your plugins folder.
+2. Go to Administration panel > Plugins page and activate it.
+3. Go to Administration panel > Themes > Widget page and add WP-Freelance to your sidebar and configure it.
+4. No more steps, Its ready.
+
+-- Screenshots --
+1. Widget settings interface
+2. UI interface
+
+-- Changelog --
+
+-- 1.0 --
+* Released V.1.0
+ 
+-- For Feedback &  Report Bugs
+Use github. @seyhunak
+http://www.seyhunakyurek.com
